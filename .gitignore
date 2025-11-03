@@ -1,6 +1,7 @@
 # My things here
 .venv/
 data/
+.dev_notebook.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
